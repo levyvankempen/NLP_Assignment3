@@ -20,4 +20,3 @@ Part 4:
 
 Bonus Question 2:
 1. bonus2_extra_data_model(1).ipynb
-2. Bonus 2 - Extra Data.pdf
