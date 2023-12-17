@@ -4,8 +4,7 @@ Part 1:
 1. part1_data_analysis_preprocessing.ipynb
 2. part1_machine_learning_svm.ipynb
 3. part1_machine_learning_xgboost.ipynb
-4. part_1_deep_learning.ipynb
-   a. part1_hyper_param.ipynb
+4. part_1_deep_learning.ipynb (part1_hyper_param.ipynb is used for hyperparameter tuning of this notebook)
 
 Part 2:
 1. part1_machine_learning_.ipynb
