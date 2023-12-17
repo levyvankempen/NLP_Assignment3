@@ -1,4 +1,9 @@
-For the assignment, we used multiple notebooks. This document is meant to guide in which chronological order the notebooks need to be read:
+Student numbers
+Max Maas - 2087500
+Maxime Lambregts - 2109627
+Levy van Kempen - 2093373
+
+For assignment 3, we used multiple notebooks. This document is meant to guide in which chronological order the notebooks need to be read:
 
 Part 1:
 1. part1_data_analysis_preprocessing.ipynb
@@ -19,4 +24,4 @@ Part 4:
 1. Part 4 Ethical considerations.pdf
 
 Bonus Question 2:
-1. bonus2_extra_data_model(1).ipynb
+1. bonus2_extra_data_model.ipynb
